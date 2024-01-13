@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sojib-sudo
+- 👋 Hi, I’m Sojib Mondol 
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Programming & Mathematic
 - 💞️ I’m looking to collaborate on Software Engineering
